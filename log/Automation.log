@@ -1,0 +1,1116 @@
+2025-02-28 20:05:54,587 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:05:54,960 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:07:15,707 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:07:15,945 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:07:16,489 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:07:16,493 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:07:17,654 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:07:17,939 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:08:38,225 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:08:38,473 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:08:39,369 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:08:39,372 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:08:40,684 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:08:40,978 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:31:36,131 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:32:42,980 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:33:56,268 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:36:13,244 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:36:13,361 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:36:14,303 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:36:14,307 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:36:15,543 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:36:15,821 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:48:37,060 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:48:37,622 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:48:38,473 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:48:38,477 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:48:40,288 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:48:40,683 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:52:36,343 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:52:36,683 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:52:37,356 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:52:37,359 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:52:38,565 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:52:38,864 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:53:18,821 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:53:20,661 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:53:21,784 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:53:21,785 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:53:24,042 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:53:24,775 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:53:35,649 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:53:35,746 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:53:36,433 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:53:36,433 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:53:37,751 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:53:38,072 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:54:53,647 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:54:54,115 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:54:54,827 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:54:57,842 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:55:01,120 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:55:01,218 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:55:01,287 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:55:01,287 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:55:05,782 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:55:06,645 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:55:14,863 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:55:15,822 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 20:55:38,530 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 20:55:42,133 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 20:55:46,034 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 20:55:46,035 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 20:55:53,617 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 20:55:54,176 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-02-28 21:13:58,064 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-02-28 21:13:58,438 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-02-28 21:13:59,043 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-02-28 21:13:59,047 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-02-28 21:14:00,352 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-02-28 21:14:00,639 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-03 11:04:26,145 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-03 11:11:13,639 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-03 11:13:14,389 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-03 11:13:19,532 [main] INFO  testCases.Tc_002_LogInTest - ****** Finished Tc_002_LogInTest ********
+2025-03-03 11:13:57,659 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-03 11:13:59,354 [main] INFO  testCases.Tc_002_LogInTest - ****** Finished Tc_002_LogInTest ********
+2025-03-03 11:18:05,437 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 11:18:05,719 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 11:18:10,803 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-03 11:19:17,490 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 11:19:17,759 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 11:19:22,428 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-03 14:07:01,600 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 14:07:01,956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 14:07:17,049 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:07:17,052 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:07:23,576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:07:23,578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:07:23,605 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:07:23,607 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:07:23,638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:07:23,639 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:07:23,663 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:07:23,664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:07:23,686 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:07:23,687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:07:23,710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:07:23,711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:07:23,733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:07:23,735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:07:23,921 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:07:35,471 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:07:35,919 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:08:12,359 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\AppData\Local\Temp\testng-eclipse-605126078\testng-customsuite.xml"
+2025-03-03 14:08:12,592 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-03 14:08:12,595 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-03 14:08:12,597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-03-03 14:08:12,613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-03-03 14:08:12,615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,618 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,618 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,627 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-03 14:08:12,627 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,629 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-03-03 14:08:12,629 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,629 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-03 14:08:12,629 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-03 14:08:12,637 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\AppData\Local\Temp\testng-eclipse-605126078\testng-customsuite.xml
+
+2025-03-03 14:08:12,681 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-03-03 14:08:12,845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:12,849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:13,362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:13,364 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:13,401 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:13,403 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:13,437 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:13,438 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:13,465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:13,466 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:13,488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:13,489 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:13,511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:13,512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:13,533 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:13,535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:13,716 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@30135202: 75 ms
+2025-03-03 14:08:13,746 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@273842a6: 29 ms
+2025-03-03 14:08:13,756 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a799159: 9 ms
+2025-03-03 14:08:13,763 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2ca6546f: 6 ms
+2025-03-03 14:08:13,769 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@23ee75c5: 6 ms
+2025-03-03 14:08:13,769 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@11a7ba62: 0 ms
+2025-03-03 14:08:24,583 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 14:08:24,849 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 14:08:31,222 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:31,225 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:31,719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:31,721 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:31,750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:31,752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:31,784 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:31,785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:31,812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:31,814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:31,839 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:31,840 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:31,862 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:31,864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:31,886 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:08:31,888 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:08:31,926 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:08:32,425 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:08:32,725 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:10:50,559 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 14:10:50,830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 14:10:55,458 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:10:55,463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:10:55,971 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:10:55,973 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:10:56,002 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:10:56,003 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:10:56,036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:10:56,038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:10:56,063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:10:56,064 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:10:56,086 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:10:56,088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:10:56,112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:10:56,114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:10:56,141 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:10:56,143 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:10:56,188 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:10:56,636 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:10:56,956 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:11:24,426 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 14:11:24,706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 14:11:28,996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:11:28,999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:11:29,510 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:11:29,512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:11:29,542 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:11:29,543 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:11:29,575 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:11:29,576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:11:29,601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:11:29,602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:11:29,624 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:11:29,625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:11:29,647 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:11:29,648 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:11:29,671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:11:29,672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:11:29,709 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:11:30,118 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:11:30,411 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:13:02,291 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 14:13:02,572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 14:13:08,843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:08,846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:09,321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:09,322 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:09,353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:09,355 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:09,386 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:09,387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:09,413 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:09,414 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:09,436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:09,437 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:09,460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:09,462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:09,485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:09,486 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:09,526 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:13:10,065 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:13:10,373 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:13:39,250 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 14:13:39,516 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 14:13:44,083 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:44,087 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:44,580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:44,581 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:44,609 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:44,611 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:44,642 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:44,643 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:44,668 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:44,669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:44,691 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:44,692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:44,713 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:44,714 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:44,736 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:13:44,737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:13:44,773 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:13:46,202 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:13:47,483 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:14:32,270 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 14:14:32,546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 14:14:37,037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:14:37,040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:14:37,545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:14:37,547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:14:37,584 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:14:37,586 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:14:37,622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:14:37,623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:14:37,655 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:14:37,656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:14:37,680 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:14:37,681 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:14:37,709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:14:37,710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:14:37,735 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 14:14:37,737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 14:14:37,780 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:14:49,911 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 14:15:02,006 [main] INFO  testCases.Tc_003_LoginDDT - ******* Finisd Tc_002_LogInTestDDT *****
+2025-03-03 14:15:02,009 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 15:36:36,933 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\groups.xml"
+2025-03-03 15:36:37,346 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\groups.xml
+
+2025-03-03 15:38:02,392 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\groups.xml"
+2025-03-03 15:38:02,700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\groups.xml
+
+2025-03-03 15:39:02,260 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\groups.xml"
+2025-03-03 15:39:02,581 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\groups.xml
+
+2025-03-03 15:39:22,749 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\groups.xml"
+2025-03-03 15:39:23,060 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\groups.xml
+
+2025-03-03 15:39:50,015 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\groups.xml"
+2025-03-03 15:39:50,313 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\groups.xml
+
+2025-03-03 15:42:52,977 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\groups.xml"
+2025-03-03 15:42:53,271 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\groups.xml
+
+2025-03-03 15:44:03,476 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-03 15:44:03,751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-03 15:44:08,289 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 15:44:08,294 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 15:44:08,824 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 15:44:08,826 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 15:44:08,856 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 15:44:08,857 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 15:44:08,889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 15:44:08,891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 15:44:08,919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 15:44:08,920 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 15:44:08,944 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 15:44:08,946 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 15:44:08,969 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 15:44:08,970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 15:44:09,001 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-03-03 15:44:09,003 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-03-03 15:44:09,050 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 15:44:21,159 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 15:44:33,136 [main] INFO  testCases.Tc_003_LoginDDT - ******* Finisd Tc_002_LogInTestDDT *****
+2025-03-03 15:44:33,139 [main] INFO  testCases.Tc_003_LoginDDT - ******* starting Tc_002_LogInTestDDT *****
+2025-03-03 15:45:52,495 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\groups.xml"
+2025-03-03 15:45:52,801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\groups.xml
+
+2025-03-03 15:45:57,846 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-03 15:45:59,683 [main] INFO  testCases.Tc_002_LogInTest - ****** Finished Tc_002_LogInTest ********
+2025-03-03 15:48:40,774 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\groups.xml"
+2025-03-03 15:48:41,068 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\groups.xml
+
+2025-03-03 15:48:45,636 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-03 15:48:46,071 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-03 15:48:46,527 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-03 15:48:46,530 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-03 15:48:47,885 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-03 15:48:48,154 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-04 12:59:19,522 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\AppData\Local\Temp\testng-eclipse-1295439172\testng-customsuite.xml"
+2025-03-04 12:59:19,756 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-04 12:59:19,761 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,761 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,768 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-03-04 12:59:19,776 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-03-04 12:59:19,778 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,778 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,780 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,780 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,780 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,780 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,781 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,781 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,782 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,782 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,784 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,784 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,784 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,785 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,787 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,787 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,789 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-03-04 12:59:19,789 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,792 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,792 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,793 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 12:59:19,793 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 12:59:19,800 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\AppData\Local\Temp\testng-eclipse-1295439172\testng-customsuite.xml
+
+2025-03-04 12:59:19,845 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-03-04 12:59:20,109 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@b6b1987: 65 ms
+2025-03-04 12:59:20,131 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6941827a: 22 ms
+2025-03-04 12:59:20,142 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@36f48b4: 11 ms
+2025-03-04 12:59:20,150 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@607fbe09: 8 ms
+2025-03-04 12:59:20,160 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@75f65e45: 8 ms
+2025-03-04 12:59:20,160 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6eeade6c: 0 ms
+2025-03-04 12:59:47,551 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-04 12:59:47,818 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-04 12:59:53,318 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-04 12:59:53,997 [main] INFO  testCases.Tc_002_LogInTest - Email: sai86@gmail.com
+2025-03-04 12:59:53,998 [main] INFO  testCases.Tc_002_LogInTest - Password: saikiran12@
+2025-03-04 12:59:54,800 [main] INFO  testCases.Tc_002_LogInTest - Target value for account existence: true
+2025-03-04 12:59:55,159 [main] INFO  testCases.Tc_002_LogInTest - ****** Finished Tc_002_LogInTest ********
+2025-03-04 13:00:35,956 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:00:36,248 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:00:41,466 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-04 13:00:41,828 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-04 13:00:42,247 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-04 13:00:42,251 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-04 13:00:43,549 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-04 13:00:43,590 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-04 13:00:43,861 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-04 13:01:01,047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:01:01,327 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:02:17,809 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\AppData\Local\Temp\testng-eclipse-1550568208\testng-customsuite.xml"
+2025-03-04 13:02:18,029 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,032 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-03-04 13:02:18,033 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,041 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-03-04 13:02:18,051 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-03-04 13:02:18,053 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,053 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,054 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,054 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,056 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,056 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,058 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,058 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,061 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,062 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:02:18,067 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:02:18,075 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\AppData\Local\Temp\testng-eclipse-1550568208\testng-customsuite.xml
+
+2025-03-04 13:02:18,119 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-03-04 13:02:18,276 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@b6b1987: 68 ms
+2025-03-04 13:02:18,293 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6941827a: 17 ms
+2025-03-04 13:02:18,309 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@36f48b4: 16 ms
+2025-03-04 13:02:18,321 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@607fbe09: 11 ms
+2025-03-04 13:02:18,330 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@75f65e45: 9 ms
+2025-03-04 13:02:18,330 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6eeade6c: 0 ms
+2025-03-04 13:04:38,424 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:04:38,701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:13:13,655 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\AppData\Local\Temp\testng-eclipse-394934109\testng-customsuite.xml"
+2025-03-04 13:13:13,976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:13,979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:13,981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:13,981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:13,987 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-03-04 13:13:13,996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-03-04 13:13:13,997 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:13,998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:13,999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:13,999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:13,999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:13,999 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:14,000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:14,000 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:14,003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:14,003 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:14,006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,008 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-03-04 13:13:14,008 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:14,009 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:14,011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-04 13:13:14,011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-04 13:13:14,019 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\AppData\Local\Temp\testng-eclipse-394934109\testng-customsuite.xml
+
+2025-03-04 13:13:14,068 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-03-04 13:13:14,242 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4351c8c3: 89 ms
+2025-03-04 13:13:14,264 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6da00fb9: 21 ms
+2025-03-04 13:13:14,289 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4189d70b: 24 ms
+2025-03-04 13:13:14,306 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3b7ff809: 16 ms
+2025-03-04 13:13:14,314 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6aecbb8d: 8 ms
+2025-03-04 13:13:14,314 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1af146: 0 ms
+2025-03-04 13:13:35,967 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:13:36,231 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:13:41,178 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-04 13:13:41,802 [main] INFO  testCases.Tc_002_LogInTest - Email: sai86@gmail.com
+2025-03-04 13:13:41,802 [main] INFO  testCases.Tc_002_LogInTest - Password: saikiran12@
+2025-03-04 13:13:42,596 [main] INFO  testCases.Tc_002_LogInTest - Target value for account existence: true
+2025-03-04 13:13:42,966 [main] INFO  testCases.Tc_002_LogInTest - ****** Finished Tc_002_LogInTest ********
+2025-03-04 13:16:27,807 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:16:28,112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:17:33,405 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:17:33,684 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:17:47,807 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:17:48,094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:19:11,865 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:19:12,153 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:19:16,488 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-04 13:19:16,721 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-04 13:19:17,182 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-04 13:19:17,185 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-04 13:19:18,454 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-04 13:19:18,492 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-04 13:19:18,745 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-04 13:20:10,049 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 13:20:10,336 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 13:20:14,321 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-04 13:20:14,743 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-04 13:20:15,244 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-04 13:20:15,247 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-04 13:20:16,459 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-04 13:20:16,499 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-04 13:20:16,741 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-04 13:41:15,682 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-04 13:41:15,954 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-04 13:41:22,753 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-04 13:41:23,359 [main] INFO  testCases.Tc_002_LogInTest - Email: sai86@gmail.com
+2025-03-04 13:41:23,360 [main] INFO  testCases.Tc_002_LogInTest - Password: saikiran12@
+2025-03-04 13:41:24,176 [main] INFO  testCases.Tc_002_LogInTest - Target value for account existence: true
+2025-03-04 13:41:24,537 [main] INFO  testCases.Tc_002_LogInTest - ****** Finished Tc_002_LogInTest ********
+2025-03-04 19:04:13,523 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 19:04:13,834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 19:04:35,299 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-04 19:04:36,406 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-04 19:04:37,749 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-04 19:04:37,751 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-04 19:04:40,015 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-04 19:04:40,244 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-04 19:04:40,539 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-04 19:13:15,672 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 19:13:15,977 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 19:13:21,731 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-04 19:13:22,128 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-04 19:13:22,751 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-04 19:13:22,755 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-04 19:13:23,948 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-04 19:13:23,986 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-04 19:13:24,224 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-04 19:13:57,617 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 19:13:57,925 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 19:17:40,771 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 19:17:41,054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 19:23:47,730 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml"
+2025-03-04 19:23:48,114 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grouping.xml
+
+2025-03-04 19:47:49,638 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-04 19:47:49,912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-04 19:47:56,040 [main] INFO  testCases.Tc_002_LogInTest - ******* starting Tc_002_LogInTest *****
+2025-03-04 19:47:56,653 [main] INFO  testCases.Tc_002_LogInTest - login page in voked
+2025-03-04 19:47:57,505 [main] INFO  testCases.Tc_002_LogInTest - Target value for account existence: true
+2025-03-04 19:47:57,912 [main] INFO  testCases.Tc_002_LogInTest - ****** Finished Tc_002_LogInTest ********
+2025-03-05 13:33:01,354 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:33:02,707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:34:56,049 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\CroseBrowser.xml"
+2025-03-05 13:34:56,387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\CroseBrowser.xml
+
+2025-03-05 13:34:56,793 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 13:34:56,906 [TestNG-tests-2] ERROR testCases.Tc_001_AccountRegistrationTest - Exception during account registration: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.29.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObject.HomePage.clickAccount(HomePage.java:31) ~[test-classes/:?]
+	at testCases.Tc_001_AccountRegistrationTest.verify_account_registration(Tc_001_AccountRegistrationTest.java:21) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2025-03-05 13:35:58,945 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:35:59,255 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:38:50,598 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:38:50,881 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:40:42,963 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:40:43,263 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:42:32,237 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:42:32,554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:44:52,967 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:44:53,255 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:46:20,721 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:46:21,020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:46:38,226 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 13:46:38,990 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-05 13:46:39,639 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-05 13:46:39,642 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-05 13:46:40,985 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-05 13:46:41,018 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-05 13:46:41,282 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-05 13:48:38,861 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:48:39,152 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:57:05,167 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:57:05,464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 13:58:00,873 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 13:58:01,178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 14:02:48,167 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 14:02:48,491 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 14:07:50,203 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 14:07:50,535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 14:08:04,199 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 14:08:04,577 [main] ERROR testCases.Tc_001_AccountRegistrationTest - Exception during account registration: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [417213717dce684fe948ee16c8caf89a, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\91868\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50606}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 10, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.31.242:4444/se..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 417213717dce684fe948ee16c8caf89a
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.29.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObject.HomePage.clickAccount(HomePage.java:31) ~[test-classes/:?]
+	at testCases.Tc_001_AccountRegistrationTest.verify_account_registration(Tc_001_AccountRegistrationTest.java:21) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-05 14:08:32,157 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 14:08:32,523 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 14:08:34,858 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 14:08:34,907 [main] ERROR testCases.Tc_001_AccountRegistrationTest - Exception during account registration: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [b68d24f97f4ae28392c68fa5d7949142, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\91868\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50628}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 10, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.31.242:4444/se..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b68d24f97f4ae28392c68fa5d7949142
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.29.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObject.HomePage.clickAccount(HomePage.java:31) ~[test-classes/:?]
+	at testCases.Tc_001_AccountRegistrationTest.verify_account_registration(Tc_001_AccountRegistrationTest.java:21) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-05 14:09:31,837 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\CroseBrowser.xml"
+2025-03-05 14:09:32,121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\CroseBrowser.xml
+
+2025-03-05 14:09:32,457 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 14:09:32,486 [TestNG-tests-2] ERROR testCases.Tc_001_AccountRegistrationTest - Exception during account registration: 
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.29.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObject.HomePage.clickAccount(HomePage.java:31) ~[test-classes/:?]
+	at testCases.Tc_001_AccountRegistrationTest.verify_account_registration(Tc_001_AccountRegistrationTest.java:21) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2025-03-05 14:09:35,565 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 14:09:35,597 [TestNG-tests-1] ERROR testCases.Tc_001_AccountRegistrationTest - Exception during account registration: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [b90b633411e20d14ec9a02e3e1d14f63, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\91868\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50648}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 10, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.31.242:4444/se..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b90b633411e20d14ec9a02e3e1d14f63
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.29.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObject.HomePage.clickAccount(HomePage.java:31) ~[test-classes/:?]
+	at testCases.Tc_001_AccountRegistrationTest.verify_account_registration(Tc_001_AccountRegistrationTest.java:21) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2025-03-05 14:09:42,376 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 14:09:42,453 [TestNG-tests-3] ERROR testCases.Tc_001_AccountRegistrationTest - Exception during account registration: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: MicrosoftEdge=133.0.3065.92)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ecfd3f737c0159dda58e1afacab70434, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.92, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50667}, msedge: {msedgedriverVersion: 133.0.3065.92 (e8591772eda3..., userDataDir: C:\Users\91868\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 10, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.31.242:4444/se..., se:cdpVersion: 133.0.3065.92, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ecfd3f737c0159dda58e1afacab70434
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.29.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObject.HomePage.clickAccount(HomePage.java:31) ~[test-classes/:?]
+	at testCases.Tc_001_AccountRegistrationTest.verify_account_registration(Tc_001_AccountRegistrationTest.java:21) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2025-03-05 14:11:27,761 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 14:11:28,060 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 14:11:30,486 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 14:11:30,560 [main] ERROR testCases.Tc_001_AccountRegistrationTest - Exception during account registration: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [f0d3aa6b8e23b8974581b9a5c858b22a, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\91868\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50686}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 10, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.31.242:4444/se..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f0d3aa6b8e23b8974581b9a5c858b22a
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.29.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObject.HomePage.clickAccount(HomePage.java:31) ~[test-classes/:?]
+	at testCases.Tc_001_AccountRegistrationTest.verify_account_registration(Tc_001_AccountRegistrationTest.java:21) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-05 14:14:37,024 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 14:14:37,326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 14:14:39,356 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 14:14:49,929 [main] ERROR testCases.Tc_001_AccountRegistrationTest - Exception during account registration: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //span[normalize-space()='My Account'] (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.29.0.jar:?]
+	at pageObject.HomePage.clickAccount(HomePage.java:38) ~[test-classes/:?]
+	at testCases.Tc_001_AccountRegistrationTest.verify_account_registration(Tc_001_AccountRegistrationTest.java:21) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [4a5acb25428bf1e63c0c0d5b13f981ff, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: C:\Users\91868\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50712}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 10, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.31.242:4444/se..., se:cdpVersion: 134.0.6998.35, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a5acb25428bf1e63c0c0d5b13f981ff
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.29.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168) ~[selenium-support-4.29.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.29.0.jar:?]
+	... 28 more
+2025-03-05 14:16:26,571 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-05 14:16:26,861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\master.xml
+
+2025-03-05 14:16:32,116 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-05 14:16:32,929 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-05 14:16:33,591 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-05 14:16:33,594 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-05 14:16:34,913 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-05 14:16:34,951 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-05 14:16:35,212 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-08 12:36:47,569 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grid-docker.xml"
+2025-03-08 12:36:56,193 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grid-docker.xml
+
+2025-03-08 12:44:24,411 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grid-docker.xml"
+2025-03-08 12:44:30,191 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grid-docker.xml
+
+2025-03-08 12:45:33,675 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-08 12:45:38,238 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-08 12:45:41,859 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-08 12:45:41,989 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-08 12:45:47,378 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-08 12:45:47,437 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-08 12:45:47,772 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-08 13:24:41,320 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\grid-docker.xml"
+2025-03-08 13:24:43,021 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91868\eclipse-workspace\opencartV121\grid-docker.xml
+
+2025-03-08 16:05:17,647 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-08 16:07:00,705 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-08 16:07:59,443 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-08 16:08:28,738 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-08 16:08:29,846 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-08 16:08:30,965 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-08 16:08:30,968 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-08 16:08:33,317 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-08 16:08:34,483 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-08 16:08:34,763 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
+2025-03-08 16:11:16,616 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\91868\eclipse-workspace\opencartV121\master.xml"
+2025-03-08 16:11:24,113 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Started Tc_01_verify_account_registration---*******
+2025-03-08 16:11:24,280 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --clicked on Account ----
+2025-03-08 16:11:24,922 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ---clicked on registration----
+2025-03-08 16:11:24,933 [main] INFO  testCases.Tc_001_AccountRegistrationTest - --provide customer info----
+2025-03-08 16:11:26,399 [main] INFO  testCases.Tc_001_AccountRegistrationTest - -- validating msg  condition---
+2025-03-08 16:11:26,447 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Received confirmation message: Your Account Has Been Created!
+2025-03-08 16:11:26,748 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *******---Finished Tc_01_verify_account_registration---*******
